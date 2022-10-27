@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Freshness page</title>
+  
+  <!-- stylesheet for the html -->
+  <link rel="stylesheet" href="mystyle.css">
+  <link rel="stylesheet" href="https://fontawesome.com/v4/icon/google">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  <link rel="stylesheet" href="https://fontawesome.com/v4/icon/facebook-official">
+
+</head>
+
+  
+<body>
+
+  <header>
+    <div class="header">
+      <img src="images/logo-1.png">
+      
+      <a href="nav.html"><i class="fa fa-bars fa-5x" aria-hidden="true"></i> </a>
+  </header>
+
+
+
+  <!--her starter min nav-->
+  <div class="nav">
+    <h3>Login in</h3>
+  </div>
+  <br>
+  <!--her sluter min nav-->
+
+  <div class="container">
+    <label for="uname"><b>Username</b></label>
+    <input type="text" placeholder="Enter Username" name="uname" required>
+    <br>
+
+    <label for="psw"><b>Password</b></label>
+    <input type="password" placeholder="Enter Password" name="psw" required>
+    <br>
+
+    <button type="submit">Login in</button>
+    <br>
+    <label>
+      <input type="checkbox" checked="checked" name="remember"> Remember me
+    </label>
+  </div>
+
+
+  
+  <h6>Did you forget your password?</h6>
+
+
+
+
+
+ 
+ <div class="facebook">
+
+  <button>Login with Facebook<i class="fa fa-facebook-f"></i></button>
+  </div>
+  
+
+
+  <div class="google">
+    <button>Login with Google<i class="fa fa-google"></i></button>
+
+  </div>
+
+
+  
+
+
+  <section>
+    <h6>Stil dont have an account?<a href="http://dr.dk" target=""> Sign up</h6></a>
+ </section>
+
+  
+
+</body>
+
+</html>
+
+
+  
+
+
+
+
+    
