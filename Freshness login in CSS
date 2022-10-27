@@ -1,0 +1,116 @@
+.fa-bars{
+    
+    margin-left: 40px;
+    color: black;
+    float: left;
+    
+}
+
+    
+    
+
+
+header img{
+
+    height: 100px;
+    width: 300px;
+    float:right;
+    margin-left: 1100px;
+    
+
+    
+
+}
+
+
+header{
+    display: flex;
+    background-color:none;
+    
+}    
+
+    
+
+
+
+
+body{
+    text-align: center;
+}
+   
+    
+
+
+.container button{
+    background-color:#7FC193 ;
+    font-size: 20px;
+    color: white;
+    padding: 5px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 4px 2px;
+    border-radius: 30px;
+    width: 200px;
+    margin-top: 15px;
+    margin-bottom: 10px;
+    border: none;
+     
+    
+}
+
+
+
+.nav {
+    background-color:black;
+    overflow: hidden;
+    text-align: center;
+    display: block;
+    color: #f2f2f2;
+    margin-top: 0px;
+    padding-top:5px;
+    text-decoration: none;
+    border-width: 500px;
+    border-radius: 30px;
+    
+    
+    
+    
+}
+
+
+
+
+.fa-google{
+    color: aliceblue;
+    background-color:#3B5998;
+    font-size: 5px;
+    margin-left: 10px;
+} 
+
+
+
+
+.facebook button{
+    background-color: #3B5998;
+    border:none;
+    margin-top: 30px;
+    margin-bottom:10px ;
+    width:200px;
+}
+
+.google button{
+    background-color: #3B5998;
+    border:none;
+    width:200px;
+    
+}
+
+.fa-facebook-f{
+    color:#f2f2f2;
+}
+    
+
+    
+
+
