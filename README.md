@@ -1,4 +1,3 @@
-![Shahad Nazar Profile](https://avatars.githubusercontent.com/u/12345678?v=4)
 #  I'm Shahad Nazar
 
 💻 Full-stack Developer | Web Developer | Modern Web Specialist
