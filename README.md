@@ -54,10 +54,3 @@ I'm a developer based in Denmark 🇩🇰 passionate about building modern web a
 - LinkedIn: [https://www.linkedin.com/in/shahadnazar/](https://www.linkedin.com/in/shahadnazar/)
 - Portfolio: [https://shahad1991.github.io/Portofolio-Bulma/](https://shahad1991.github.io/Portofolio-Bulma/)
 
----
-
-## 📊 GitHub Stats
-
-![Stats](https://github-readme-stats.vercel.app/api?username=Shahad1991&show_icons=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shahad1991&layout=compact)
